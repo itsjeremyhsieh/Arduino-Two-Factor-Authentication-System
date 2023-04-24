@@ -28,3 +28,6 @@ Enter your password using the numeric keypad. If the password is correct, the gr
 
 After access is granted, the system will display a welcome message with the username displayed. 
 After 2 seconds, the system is reset and prompt you to scan your card again for the next user.
+
+## Acknowledgments
+This project was inspired by the concept of two-factor authentication and the need for enhanced security in personal and professional settings.
